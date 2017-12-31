@@ -21,5 +21,5 @@ function maybeTrue() {
 }
 
 function doWhileLoop(arr){
-  
+  (array.length > 0 && maybeTrue())
 }
